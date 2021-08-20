@@ -1,5 +1,19 @@
 # CompanyCrm
 
+# DEPLOYED TO:
+
+https://crm-company-alexey.web.app
+
+----------------------------
+# User for test:
+
+Email: test@test.com
+Password: testme
+
+----------------------------
+
+**********************************************
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
 ## Development server
